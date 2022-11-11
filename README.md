@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=125&section=header&text=LeeKyeongmi&fontSize=50&animation=fadein)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=125&section=header&text=SURI&fontSize=50&animation=fadein)
 
 # 👩‍💻 Hello,
 머릿속에 상상하는 그림을 화면에 그려내고,<br> 
