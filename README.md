@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=125&section=header&text=LeeKyeongmi&fontSize=50&animation=twinkling)
 
+# editing
+
 ### 👩‍💻 안녕하세요, 
 머릿속에 상상하는 그림을 화면에 그려내고, 
 심미적이고 쾌적한 디지털 경험을 만드는 **프론트엔드 개발자 이경미**입니다.
