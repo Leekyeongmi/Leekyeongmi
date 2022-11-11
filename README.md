@@ -18,6 +18,9 @@
 
 **프로그래밍 언어** : `Javascript` `HTML5` `CSS3`
 
+<img src="https://img.shields.io/badge/F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+
 **프레임워크 & 라이브러리** : `React` `Redux(React-Redux, Redux-Toolkit)` `Styled-Components` `Tailwind CSS` `Axios`
 
 **DB & 서버** : `MySQL` `Firebase` 
