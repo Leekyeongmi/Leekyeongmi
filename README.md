@@ -14,7 +14,7 @@
 ```
 
 # 🧰 Tech Stacks
-
+----------
 
 **프로그래밍 언어** :  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -42,8 +42,9 @@
 
 [![Suri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leekyeongmi&count_private=true&show_icons=true)](https://github.com/Leekyeongmi/github-readme-stats)
 
-# 📞 Contact
-<a href="https://velog.io/@starry3ones"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@starry3ones"/></a> 
+--------
+# Contact me!
+<p align="center"><a href="https://velog.io/@starry3ones"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@starry3ones"/></a> 
 <a href="mailto:starry3ones@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starry3ones@gmail.com"/></a>
 
 
